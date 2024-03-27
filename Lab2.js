@@ -62,8 +62,8 @@ db.instructors.find({
 
 db.instructors.find({
     $or: [
-        { firstName: { $regex: /mohammed/i } },
-        { lastName: { $regex: /mohammed/i } }
+        { firstName: "mohammed" },
+        { lastName: "mohammed" }
     ]
 })
 
