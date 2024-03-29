@@ -80,7 +80,7 @@ let studentData = [
     {"FirstName":"Georgeanne","LastName":"Isbell","IsFired":false,"courses":[{"CourseID":coursesIds[1]._id,"grade":85.74}],"facultyId":facultyIds[1]._id},
     {"FirstName":"Saundra","LastName":"Norcliffe","IsFired":false,"courses":[{"CourseID":coursesIds[4]._id,"grade":37.16},{"CourseID":coursesIds[0]._id,"grade":13.71},{"CourseID":coursesIds[1]._id,"grade":48.14}],"facultyId":facultyIds[5]._id},
     {"FirstName":"Efrem","LastName":"Talby","IsFired":false,"courses":[{"CourseID":coursesIds[2]._id,"grade":20.39},{"CourseID":coursesIds[0]._id,"grade":17.4}],"facultyId":facultyIds[3]._id},
-    {"FirstName":"Carlynn","LastName":"Whitrod","IsFired":false,"courses":[{"CourseID":coursesIds[8]._id,"grade":29.91}],"facultyId":ObjectId('660697a243a35f96d7827614')},
+    {"FirstName":"Carlynn","LastName":"Whitrod","IsFired":false,"courses":[{"CourseID":coursesIds[8]._id,"grade":29.91}],"facultyId":facultyIds[1]._id},
     {"FirstName":"Pete","LastName":"Cathery","IsFired":true,"courses":[{"CourseID":coursesIds[7]._id,"grade":89.15},{"CourseID":coursesIds[0]._id,"grade":85.31},{"CourseID":coursesIds[8]._id,"grade":83.01}],"facultyId":facultyIds[0]._id},
     {"FirstName":"Jessie","LastName":"Kembery","IsFired":false,"courses":[{"CourseID":coursesIds[6]._id,"grade":16.08},{"CourseID":coursesIds[2]._id,"grade":75.42}],"facultyId":facultyIds[4]._id},
     {"FirstName":"Eda","LastName":"Cescotti","IsFired":false,"courses":[{"CourseID":coursesIds[0]._id,"grade":94.16}],"facultyId":facultyIds[0]._id},
